@@ -1,1 +1,0 @@
-# bootstrap-go-http-service
